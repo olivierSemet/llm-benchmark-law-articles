@@ -1,0 +1,10 @@
+langchain
+langchain-core 
+langchain-community 
+langchain-openai
+langchain-mistralai
+langchain-anthropic
+pandas
+rapidfuzz
+jsonschema
+plotly

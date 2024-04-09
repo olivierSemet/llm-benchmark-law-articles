@@ -1,0 +1,44 @@
+{
+    "articles": [
+      {
+        "num": "R424-17",
+        "code": "Code de l'urbanisme"
+      },
+      {
+        "num": "R424-21",
+        "code": "Code de l'urbanisme"
+      },
+      {
+        "num": "R424-22",
+        "code": "Code de l'urbanisme"
+      },
+      {
+        "num": "R123-24",
+        "code": "Code de l'environnement"
+      },
+      {
+        "num": "L242-1",
+        "code": "Code des assurances"
+      },
+      {
+        "num": "A424-15",
+        "code": "Code de l'urbanisme"
+      },
+      {
+        "num": "A424-16",
+        "code": "Code de l'urbanisme"
+      },
+      {
+        "num": "A424-17",
+        "code": "Code de l'urbanisme"
+      },
+      {
+        "num": "A424-18",
+        "code": "Code de l'urbanisme"
+      },
+      {
+        "num": "A424-19",
+        "code": "Code de l'urbanisme"
+      }
+    ]
+  }
